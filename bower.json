@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-switch-scss",
+  "description": "Turn checkboxes and radio buttons into toggle switches.",
+  "version": "3.3.2",
+  "main": [
+    "./dist/js/bootstrap-switch.js",
+    "./dist/scss/bootstrap3/_bootstrap-switch.scss",
+    "./dist/css/bootstrap3/bootstrap-switch.css"
+  ],
+  "authors": [
+    "WebDevNerdStuff"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:webdevnerdstuff/bootstrap-switch-scss.git"
+  },
+  "ignore": [
+  ],
+  "dependencies": {
+    "bootstrap": ">=2.3.2",
+    "jquery": ">=1.9.0"
+  },
+  "devDependencies": {
+    "jquery": "~2.1",
+    "bootstrap": "~3.3"
+  }
+}
