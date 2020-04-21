@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-switch-scss",
+  "version": "3.3.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdevnerdstuff/bootstrap-switch-scss.git"
+  },
+  "author": "WebDevNerdStuff & Bunnies... lots and lots of bunnies! (https://webdevnerdstuff.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webdevnerdstuff/bootstrap-switch-scss/issues"
+  },
+  "homepage": "https://github.com/webdevnerdstuff/bootstrap-switch-scss#readme"
+}
